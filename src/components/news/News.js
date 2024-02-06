@@ -19,9 +19,9 @@ const News = () => {
               />
             </div>
             <div className="news__hero-info">
-              <div className="news__info-title">
+              <h1 className="news__info-title">
                 The Bright Future of Web 3.0?
-              </div>
+              </h1>
               <div className="news__info-aside">
                 <div className="news__info-subtitle">
                   We dive into the next evolution of the web that claims to put
