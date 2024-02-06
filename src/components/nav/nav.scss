@@ -15,6 +15,10 @@
     opacity: 0;
   }
 
+  &__menu {
+    list-style-type: none;
+  }
+
   &__list {
     display: flex;
 
